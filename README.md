@@ -1,5 +1,5 @@
 # Airline-Reservation-System
-Web application. Worked with Java, Spring and Hibernate ORM for backend and HTML, JavaScript, VueJs for frontend.
+Web application. Worked with Java, Spring and Hibernate ORM for backend and JavaScript, VueJs, HTML for frontend.
 
 # Home page of the application
 
